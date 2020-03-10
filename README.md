@@ -48,7 +48,6 @@ App Screenshots + gif
 App GitHub Link
 App Store Link
 
-Example: 
 
 
 
