@@ -1,4 +1,4 @@
-# ios-dev-portfolio
+# ios-dev-portfolio-inspiration
 
 ## GitHub README
 
